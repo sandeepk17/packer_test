@@ -13,7 +13,8 @@ Orginal Credits to StefanScherer
 2. Edit the Iso_url and virtio_win_iso path.
 3. Change the output directory if needed.
 4. Specify the format qcow2 or raw.
-5. run command 
+5. Remove / keep the post processing part with output format needed.! 
+6. run command 
 
 ```sh
 "packer build windows_10.json"
